@@ -10,7 +10,7 @@ A suspension system is a protective lattice of shock-absorbing components. By ab
 ## Bearing  
 Bearings reduce friction among moving parts and limit relative motion to the desired motion. In some bearing designs, the moving part may be allowed to move linearly or rotate freely around a fixed axis. The following bearing and supporter are used to connect the tire to the foot.
 
-![Sus](https://user-images.githubusercontent.com/108624020/180660366-095a5fba-fafd-4ef7-92d7-c0a70b2e3088.PNG)
+![Bearing](https://user-images.githubusercontent.com/108624020/180660518-b35f4406-bd37-4a0b-afc5-553338ee2fb5.PNG)
 
 ## Connect the System
 After collecting the parts of the tire, a suitable hole has been introduced to the foot. and this is the final design of the system
